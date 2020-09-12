@@ -1,0 +1,115 @@
+Country name,Pearson's correlation,P-value of pearson's correlation,Comment on pearson's correlation,Spearsman's correlation,P-value of spearman's correlation,Comment on spearsman's correlation,Kendall's correlation,P-value of kendall's correlation,Comment on kendall's correlation
+Afghanistan,0.402,0.057,uncorrelated,0.540,0.008,correlated,0.412,0.009,correlated
+Albania,0.245,0.201,uncorrelated,0.389,0.037,correlated,0.272,0.047,correlated
+Algeria,-0.114,0.528,uncorrelated,-0.142,0.430,uncorrelated,-0.090,0.482,uncorrelated
+Andorra,-0.055,0.809,uncorrelated,-0.058,0.798,uncorrelated,-0.041,0.798,uncorrelated
+Argentina,-0.282,0.147,uncorrelated,-0.304,0.116,uncorrelated,-0.217,0.116,uncorrelated
+Armenia,0.186,0.344,uncorrelated,0.230,0.240,uncorrelated,0.183,0.188,uncorrelated
+Australia,-0.318,0.043,correlated,-0.483,0.001,correlated,-0.332,0.003,correlated
+Austria,0.368,0.019,correlated,0.279,0.081,uncorrelated,0.183,0.108,uncorrelated
+Azerbaijan,0.083,0.694,uncorrelated,0.102,0.628,uncorrelated,0.087,0.556,uncorrelated
+Bahrain,0.158,0.351,uncorrelated,0.152,0.369,uncorrelated,0.124,0.312,uncorrelated
+Bangladesh,0.624,0.002,correlated,0.534,0.013,correlated,0.460,0.007,correlated
+Belarus,0.184,0.451,uncorrelated,0.280,0.245,uncorrelated,0.236,0.177,uncorrelated
+Belgium,0.602,0.000,correlated,0.581,0.000,correlated,0.450,0.000,correlated
+Bolivia,0.063,0.775,uncorrelated,0.058,0.793,uncorrelated,0.041,0.803,uncorrelated
+Bosnia and Herzegovina,0.077,0.685,uncorrelated,0.079,0.680,uncorrelated,0.060,0.653,uncorrelated
+Brazil,-0.439,0.011,correlated,-0.304,0.085,uncorrelated,-0.212,0.113,uncorrelated
+Brunei,-0.248,0.231,uncorrelated,-0.191,0.362,uncorrelated,-0.141,0.386,uncorrelated
+Bulgaria,-0.078,0.698,uncorrelated,-0.174,0.385,uncorrelated,-0.129,0.357,uncorrelated
+Burkina Faso,-0.006,0.979,uncorrelated,-0.083,0.701,uncorrelated,-0.065,0.681,uncorrelated
+Cabo Verde,0.108,0.838,uncorrelated,0.141,0.789,uncorrelated,0.135,0.752,uncorrelated
+Cambodia,0.302,0.209,uncorrelated,0.505,0.027,correlated,0.401,0.037,correlated
+Canada,0.456,0.001,correlated,0.505,0.000,correlated,0.347,0.001,correlated
+Chile,-0.313,0.072,uncorrelated,-0.383,0.025,correlated,-0.268,0.035,correlated
+China,-0.407,0.001,correlated,-0.611,0.000,correlated,-0.410,0.000,correlated
+Colombia,-0.659,0.000,correlated,-0.691,0.000,correlated,-0.524,0.000,correlated
+Congo (Brazzaville),0.022,0.967,uncorrelated,0.044,0.934,uncorrelated,0.071,0.846,uncorrelated
+Congo (Kinshasa),-0.002,0.994,uncorrelated,-0.001,0.997,uncorrelated,0.006,0.971,uncorrelated
+Costa Rica,-0.054,0.775,uncorrelated,-0.088,0.644,uncorrelated,-0.028,0.841,uncorrelated
+Cote d'Ivoire,0.083,0.737,uncorrelated,-0.103,0.675,uncorrelated,-0.101,0.568,uncorrelated
+Croatia,0.184,0.283,uncorrelated,0.242,0.156,uncorrelated,0.184,0.133,uncorrelated
+Cuba,0.690,0.000,correlated,0.802,0.000,correlated,0.653,0.000,correlated
+Cyprus,-0.210,0.303,uncorrelated,-0.217,0.287,uncorrelated,-0.135,0.359,uncorrelated
+Denmark,-0.106,0.537,uncorrelated,-0.082,0.636,uncorrelated,-0.026,0.834,uncorrelated
+Dominican Republic,0.100,0.650,uncorrelated,-0.004,0.987,uncorrelated,0.000,1.000,uncorrelated
+Ecuador,-0.084,0.659,uncorrelated,-0.207,0.271,uncorrelated,-0.161,0.265,uncorrelated
+Egypt,0.365,0.037,correlated,0.264,0.137,uncorrelated,0.168,0.189,uncorrelated
+Estonia,0.195,0.293,uncorrelated,0.134,0.473,uncorrelated,0.081,0.545,uncorrelated
+Finland,0.490,0.002,correlated,0.422,0.010,correlated,0.324,0.009,correlated
+France,0.356,0.018,correlated,0.356,0.018,correlated,0.249,0.023,correlated
+Georgia,0.035,0.855,uncorrelated,-0.039,0.840,uncorrelated,-0.005,0.971,uncorrelated
+Germany,0.363,0.011,correlated,0.316,0.029,correlated,0.231,0.027,correlated
+Ghana,-0.004,0.987,uncorrelated,-0.026,0.914,uncorrelated,-0.017,0.931,uncorrelated
+Greece,0.316,0.069,uncorrelated,0.277,0.112,uncorrelated,0.193,0.118,uncorrelated
+Guinea,-0.457,0.135,uncorrelated,-0.764,0.004,correlated,-0.620,0.012,correlated
+Honduras,0.308,0.164,uncorrelated,0.276,0.214,uncorrelated,0.221,0.198,uncorrelated
+Hungary,0.189,0.318,uncorrelated,0.220,0.243,uncorrelated,0.170,0.202,uncorrelated
+Iceland,0.341,0.039,correlated,0.273,0.102,uncorrelated,0.202,0.098,uncorrelated
+India,0.248,0.139,uncorrelated,0.439,0.007,correlated,0.324,0.007,correlated
+Indonesia,-0.227,0.219,uncorrelated,-0.279,0.128,uncorrelated,-0.204,0.139,uncorrelated
+Iran,0.542,0.000,correlated,0.576,0.000,correlated,0.420,0.000,correlated
+Iraq,0.259,0.121,uncorrelated,0.298,0.074,uncorrelated,0.221,0.065,uncorrelated
+Ireland,0.421,0.016,correlated,0.423,0.016,correlated,0.323,0.014,correlated
+Israel,0.391,0.013,correlated,0.379,0.016,correlated,0.279,0.017,correlated
+Italy,0.247,0.094,uncorrelated,0.262,0.075,uncorrelated,0.175,0.100,uncorrelated
+Japan,0.502,0.000,correlated,0.511,0.000,correlated,0.372,0.000,correlated
+Jordan,0.354,0.098,uncorrelated,0.362,0.090,uncorrelated,0.258,0.094,uncorrelated
+Kazakhstan,0.223,0.284,uncorrelated,0.402,0.047,correlated,0.311,0.036,correlated
+"Korea, South",-0.087,0.518,uncorrelated,0.122,0.360,uncorrelated,0.098,0.290,uncorrelated
+Kuwait,0.119,0.491,uncorrelated,0.232,0.174,uncorrelated,0.171,0.173,uncorrelated
+Kyrgyzstan,0.324,0.222,uncorrelated,0.385,0.140,uncorrelated,0.275,0.164,uncorrelated
+Latvia,0.046,0.809,uncorrelated,0.091,0.631,uncorrelated,0.064,0.638,uncorrelated
+Lebanon,0.399,0.020,correlated,0.285,0.102,uncorrelated,0.230,0.072,uncorrelated
+Lithuania,-0.178,0.375,uncorrelated,-0.107,0.594,uncorrelated,-0.036,0.799,uncorrelated
+Luxembourg,0.430,0.016,correlated,0.427,0.016,correlated,0.315,0.017,correlated
+Malaysia,-0.002,0.989,uncorrelated,-0.004,0.978,uncorrelated,-0.017,0.886,uncorrelated
+Malta,-0.027,0.892,uncorrelated,0.017,0.934,uncorrelated,0.010,0.948,uncorrelated
+Mauritania,-0.574,0.311,uncorrelated,-0.707,0.182,uncorrelated,-0.632,0.157,uncorrelated
+Mauritius,-0.445,0.056,uncorrelated,-0.600,0.007,correlated,-0.469,0.012,correlated
+Mexico,0.623,0.000,correlated,0.558,0.001,correlated,0.420,0.001,correlated
+Moldova,-0.399,0.048,correlated,-0.411,0.041,correlated,-0.302,0.039,correlated
+Montenegro,0.021,0.933,uncorrelated,0.038,0.879,uncorrelated,0.024,0.887,uncorrelated
+Morocco,-0.322,0.083,uncorrelated,-0.319,0.085,uncorrelated,-0.198,0.150,uncorrelated
+Netherlands,0.507,0.001,correlated,0.467,0.003,correlated,0.360,0.003,correlated
+New Zealand,-0.332,0.098,uncorrelated,-0.384,0.053,uncorrelated,-0.303,0.041,correlated
+Nigeria,-0.285,0.198,uncorrelated,-0.342,0.119,uncorrelated,-0.284,0.095,uncorrelated
+North Macedonia,0.401,0.042,correlated,0.387,0.051,uncorrelated,0.259,0.069,uncorrelated
+Norway,0.163,0.315,uncorrelated,0.059,0.719,uncorrelated,0.043,0.706,uncorrelated
+Oman,0.036,0.853,uncorrelated,0.017,0.929,uncorrelated,0.017,0.908,uncorrelated
+Pakistan,-0.133,0.468,uncorrelated,0.093,0.613,uncorrelated,0.021,0.870,uncorrelated
+Panama,0.457,0.019,correlated,0.540,0.004,correlated,0.459,0.003,correlated
+Paraguay,-0.021,0.924,uncorrelated,-0.022,0.922,uncorrelated,-0.013,0.936,uncorrelated
+Peru,-0.545,0.002,correlated,-0.329,0.081,uncorrelated,-0.272,0.068,uncorrelated
+Philippines,0.387,0.024,correlated,0.391,0.022,correlated,0.293,0.027,correlated
+Poland,0.002,0.992,uncorrelated,0.054,0.768,uncorrelated,0.053,0.683,uncorrelated
+Portugal,-0.055,0.764,uncorrelated,-0.036,0.846,uncorrelated,-0.019,0.883,uncorrelated
+Qatar,-0.058,0.751,uncorrelated,0.090,0.625,uncorrelated,0.078,0.561,uncorrelated
+Romania,-0.313,0.071,uncorrelated,-0.118,0.507,uncorrelated,-0.068,0.581,uncorrelated
+Russia,0.184,0.322,uncorrelated,0.277,0.132,uncorrelated,0.230,0.078,uncorrelated
+Rwanda,-0.246,0.296,uncorrelated,-0.303,0.193,uncorrelated,-0.283,0.109,uncorrelated
+San Marino,-0.121,0.565,uncorrelated,-0.306,0.136,uncorrelated,-0.227,0.138,uncorrelated
+Saudi Arabia,0.219,0.245,uncorrelated,0.127,0.503,uncorrelated,0.080,0.551,uncorrelated
+Senegal,0.008,0.971,uncorrelated,0.042,0.843,uncorrelated,0.011,0.943,uncorrelated
+Serbia,-0.271,0.162,uncorrelated,-0.066,0.738,uncorrelated,-0.038,0.781,uncorrelated
+Singapore,0.458,0.000,correlated,0.535,0.000,correlated,0.436,0.000,correlated
+Slovakia,0.197,0.298,uncorrelated,0.084,0.659,uncorrelated,0.044,0.745,uncorrelated
+Slovenia,0.203,0.282,uncorrelated,0.182,0.336,uncorrelated,0.125,0.349,uncorrelated
+South Africa,0.080,0.680,uncorrelated,0.252,0.188,uncorrelated,0.196,0.154,uncorrelated
+Spain,-0.170,0.277,uncorrelated,-0.121,0.438,uncorrelated,-0.087,0.425,uncorrelated
+Sweden,0.159,0.326,uncorrelated,0.129,0.429,uncorrelated,0.105,0.359,uncorrelated
+Switzerland,0.242,0.127,uncorrelated,0.167,0.296,uncorrelated,0.110,0.326,uncorrelated
+Taiwan*,0.291,0.045,correlated,0.350,0.015,correlated,0.234,0.031,correlated
+Thailand,0.258,0.103,uncorrelated,0.226,0.156,uncorrelated,0.173,0.153,uncorrelated
+Trinidad and Tobago,0.223,0.319,uncorrelated,-0.098,0.665,uncorrelated,-0.080,0.663,uncorrelated
+Tunisia,-0.352,0.071,uncorrelated,-0.244,0.219,uncorrelated,-0.155,0.281,uncorrelated
+Turkey,-0.264,0.202,uncorrelated,-0.228,0.274,uncorrelated,-0.124,0.397,uncorrelated
+US,0.678,0.000,correlated,0.709,0.000,correlated,0.535,0.000,correlated
+Ukraine,-0.479,0.024,correlated,-0.410,0.058,uncorrelated,-0.308,0.050,uncorrelated
+United Arab Emirates,0.062,0.745,uncorrelated,0.369,0.045,correlated,0.290,0.031,correlated
+United Kingdom,0.538,0.000,correlated,0.638,0.000,correlated,0.464,0.000,correlated
+Uruguay,-0.015,0.941,uncorrelated,-0.028,0.886,uncorrelated,-0.014,0.921,uncorrelated
+Uzbekistan,0.119,0.596,uncorrelated,0.377,0.084,uncorrelated,0.283,0.073,uncorrelated
+Venezuela,0.087,0.717,uncorrelated,0.049,0.838,uncorrelated,0.037,0.838,uncorrelated
+Vietnam,0.304,0.068,uncorrelated,0.268,0.109,uncorrelated,0.193,0.110,uncorrelated
+West Bank and Gaza,-0.137,0.488,uncorrelated,-0.129,0.513,uncorrelated,-0.098,0.503,uncorrelated
